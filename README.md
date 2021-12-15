@@ -5,6 +5,12 @@ The aim of this project is to build a preliminary computer vision application to
 The inspiration of the project came from my management science teacher and on further implementation, this turened out to be a unique project in terms of its  possible applications in the industry.
 
 
+![size_of_objects_sample](https://user-images.githubusercontent.com/78647606/146131086-bbafe043-10fe-4d70-aae1-9cd04b4343d6.gif)
+
+Credits: PyimageSearch
+
+
+
 ## Limitations : 
 This code works only for a certain set of images which neet to be place in certain angle and position
 
